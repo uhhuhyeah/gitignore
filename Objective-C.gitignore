@@ -13,3 +13,8 @@ build/*
 xcuserdata
 profile
 *.moved-aside
+.DS_Store
+FirstView.xib
+SecondView.xib
+Classes/FirstViewController.*
+Classes/SecondViewController.*
